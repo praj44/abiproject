@@ -2,6 +2,7 @@ body{
     background-color: #eaeaea;
     font-family: sans-serif;
 }
+
 .lives{
     text-align: center;
     font-size: 20px;
@@ -25,11 +26,13 @@ body{
     background-color: white;
     padding: 10px;
   }
+
   img{
     display: block;
   }
+
   main{
-    background-color: #eaeaea;
+    background-color: #eaeaeae5;
   }
   #img-caption{
     text-align: center;
@@ -52,6 +55,7 @@ body{
     padding: 10px 0;
     /* font-weight: bold; */
   }
+  
   footer{
     text-align: center;
     padding-top:20px ;
